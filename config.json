@@ -1,0 +1,26 @@
+{
+    "announcement_embed": {
+        "title": "Announcement",
+        "description": "{message}",
+        "color": 3447003,
+        "footer": "Ping: {ping}"
+    },
+    "member_join_embed": {
+        "title": "Welcome!",
+        "description": "Welcome {user} to the server!",
+        "color": 3066993
+    },
+    "member_leave_embed": {
+        "title": "Goodbye!",
+        "description": "{user} has left the server.",
+        "color": 15158332
+    },
+    "server_boost_embed": {
+        "title": "Thank You!",
+        "description": "{user} boosted the server!",
+        "color": 10181046
+    },
+    "permissions": {
+        "admin_roles": ["Admin", "Moderator"]
+    }
+}
